@@ -1,0 +1,7 @@
+Stangen - Schlitten:        2,5 cm
+Lochabstand vom heated Bed: 209mm
+
+Kugellager klein: 4mm  13mm
+Kugellager groß:  8mm  22mm
+
+Ritzel 20 zähne: ca. 12mm
