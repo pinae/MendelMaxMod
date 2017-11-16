@@ -73,7 +73,7 @@ module mks_mount() {
             }
         }
         for(i=[0, 1]) {
-            for(j=[5, 50.4]) {
+            for(j=[5, 55.4]) {
                 translate([-13+i*121, j, -1]) cylinder(d=5.2, h=7, $fn=32);
             }
         }
